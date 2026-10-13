@@ -104,7 +104,7 @@ it needs your computer for nothing but power now).
 > its bootloader. Also double-check the cable — some USB-C cables are
 > power-only and carry no data.
 
-## 6. Click on the shield
+## 6. Install the XIAO onto the shield
 
 Now push the XIAO into the Grove shield's two pin sockets (the USB port
 lines up with the shield's edge). The shield has 8 identical white sockets
